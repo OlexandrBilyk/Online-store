@@ -1,0 +1,25 @@
+.logo{
+    width: 80px;
+    height: 80px;
+}
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 40px 0;
+}
+.footer a {
+    color: #f8f9fa;
+}
+.footer a:hover {
+    color: #adb5bd;
+}
+
+.order-form {
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.order-form .form-control, .order-form .btn {
+    border-radius: 50px;
+}
